@@ -1,5 +1,5 @@
 # data folder
-data/
+data/**
 
 
 # *.ppt
@@ -9,11 +9,11 @@ data/
 *.mp4
 *.png
 
-.ipynb_checkpoints/
+.ipynb_checkpoints/**
 
 
 #build dir
-build/
+build/**
 
 
 
@@ -22,7 +22,7 @@ build/
 
 
 # editor config
-.vscode/
+.vscode/**
 
 # Xcode
 *.pbxuser
@@ -33,9 +33,9 @@ build/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-xcuserdata/
+xcuserdata/**
 *.moved-aside
 *.xccheckout
 *.xcscmblueprint
-ide_profiles/xcode/Debug/
-ide_profiles/xcode/ExtendedKF.build/
+ide_profiles/xcode/Debug/**
+ide_profiles/xcode/ExtendedKF.build/**
