@@ -9,6 +9,13 @@ data/**
 *.mp4
 *.png
 
+#deep learning pre-trained weight
+*.pth
+*.h5
+
+#darknet, yolo pre-trained weight
+*.weights
+
 .ipynb_checkpoints/**
 
 
